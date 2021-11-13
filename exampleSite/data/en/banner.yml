@@ -5,8 +5,9 @@ banner:
   bg_image: images/velas.jpg
   icon: ''
   title: Atrae el Amor y la Suerte
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  content: Conoce sobre nosotros, amplia experiencia, Aquí encontrara los mejores
+    profesionales para ayudar a todas las personas a alcanzar sus sueños, terminar
+    todos sus problemas y mejorar su suerte.
   button:
     enable: true
     label: Conoce sobre nosotros
