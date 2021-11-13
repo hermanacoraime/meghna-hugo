@@ -1,4 +1,4 @@
-baseURL = "https://examplesite.com"
+baseURL = "http://54.172.93.165:1313/"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
