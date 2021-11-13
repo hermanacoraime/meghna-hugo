@@ -11,4 +11,4 @@ banner:
   button:
     enable: true
     label: Conoce sobre nosotros
-    link: "#services"
+    link: https://api.whatsapp.com/send/?phone=573009125377&text&app_absent=0
