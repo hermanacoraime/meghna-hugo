@@ -1,4 +1,4 @@
-baseURL = "http://54.172.93.165:1313/"
+baseURL = "http://hermana-coraime.com.s3-website-us-east-1.amazonaws.com/"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
