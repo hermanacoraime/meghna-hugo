@@ -86,7 +86,7 @@ google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
 [params.cookies]
-enable = false
+enable = true
 expire_days = 2
 [params.map]
 enable = false
@@ -104,6 +104,8 @@ link = "plugins/magnific-popup/magnific-popup.css"
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+[[params.plugins.js]]
+link = ""
 [[params.plugins.js]]
 link = "plugins/jquery/jquery.min.js"
 [[params.plugins.js]]
