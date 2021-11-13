@@ -10,5 +10,5 @@ banner:
     todos sus problemas y mejorar su suerte.
   button:
     enable: true
-    label: Conoce sobre nosotros
+    label: Chatea con nosotros
     link: https://api.whatsapp.com/send/?phone=573009125377&text&app_absent=0
