@@ -1,7 +1,7 @@
 ---
 about:
   enable: true
-  title: Acerca de Nosotros
+  title: Nosotros
   about_item:
   - icon: ti-ruler-pencil
     title: We're Creative
