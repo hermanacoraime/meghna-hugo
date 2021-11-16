@@ -1,8 +1,8 @@
 ---
 title: Hechizos de Amor
 date: 2021-02-02T03:51:12-05:00
-image_webp: images/blog/blog-post-2.webp
-image: images/blog/blog-post-2.jpg
+image_webp: "/images/recuperar.jpeg"
+image: "/images/recuperar.jpeg"
 author: Hermana Coraime
 description: This is meta description
 
