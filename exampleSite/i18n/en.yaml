@@ -21,9 +21,7 @@
   translation: Portfolio
 - id: equipo
   translation: Team
-- id: pricing
-  translation: Pricing
 - id: blog
   translation: Blog
-- id: contact
+- id: contacto
   translation: Contact
