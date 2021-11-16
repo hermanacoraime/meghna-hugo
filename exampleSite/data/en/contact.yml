@@ -11,13 +11,11 @@ contact:
     info: 'Phone: +57 3245557787'
   - icon: ti-printer
     info: 'Fax: +880-31-000-000'
-  - icon: ti-email
-    info: 'Email: hello@meghna.com'
   contact_form:
     enable: true
     form_action: "#"
-    name: Your Name
-    email: Your Email
-    subject: Subject
-    message: Message
-    submit: Submit
+    name: Nombre
+    email: Correo
+    subject: Asunto
+    message: Mensaje
+    submit: Enviar
