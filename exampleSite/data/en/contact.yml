@@ -2,15 +2,11 @@
 contact:
   enable: true
   title: Contactanos
-  subtitle: Contact Details
+  subtitle: Detalles del contacto
   content: Si tienes algún problema o duda no dudes en contactarnos.
   contact_list:
-  - icon: ti-location-pin
-    info: Khaja Road, Bayzid, Chittagong, Bangladesh
   - icon: ti-mobile
     info: 'Phone: +57 3245557787'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   contact_form:
     enable: true
     form_action: "#"
