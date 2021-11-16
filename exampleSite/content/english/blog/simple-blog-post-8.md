@@ -1,5 +1,5 @@
 ---
-title: Hechizos de Amor
+title: Hechizos para Separar
 date: 2021-02-02T03:51:12-05:00
 image_webp: "/images/1.jpeg"
 image: "/images/1.jpeg"
