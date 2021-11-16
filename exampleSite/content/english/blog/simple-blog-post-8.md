@@ -1,8 +1,8 @@
 ---
 title: Hechizos para Separar
 date: 2021-02-02T03:51:12-05:00
-image_webp: "/images/separacion.jpg"
-image: "/images/separacion.jpg"
+image_webp: "/images/separacion.png"
+image: "/images/separacion.png"
 author: Hermana Coraime
 description: This is meta description
 
