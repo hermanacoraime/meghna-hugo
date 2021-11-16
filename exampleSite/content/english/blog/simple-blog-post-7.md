@@ -1,8 +1,8 @@
 ---
 title: Hechizos para Dominar
 date: 2018-09-12T12:52:36.000+06:00
-image_webp: "/images/hechizo.jpg"
-image: "/images/hechizo.jpg"
+image_webp: "/images/hechizo1.jpg"
+image: "/images/hechizo1.jpg"
 author: John Doe
 description: This is meta description
 
