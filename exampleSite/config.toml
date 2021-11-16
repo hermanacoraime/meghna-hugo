@@ -79,7 +79,7 @@ weight = 8
 author = "Themefisher"
 description = "Mejore su suerte con la Hermana Coraime"
 google_analytics_id = "UA-212973432-1"
-logo = "images/logo.jpg"
+logo = "images/logovela.jpg"
 post_share = true
 [params.cookies]
 enable = false
