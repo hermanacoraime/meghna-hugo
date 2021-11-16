@@ -29,7 +29,7 @@ name = "equipo"
 url = "#team"
 weight = 4
 [[Languages.en.menu.main]]
-name = "blog"
+name = "hechizos"
 url = "#blog"
 weight = 6
 [[Languages.en.menu.main]]
