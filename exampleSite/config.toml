@@ -33,7 +33,7 @@ name = "blog"
 url = "#blog"
 weight = 6
 [[Languages.en.menu.main]]
-name = "contact"
+name = "contacto"
 url = "#contact"
 weight = 7
 [Languages.fr]
