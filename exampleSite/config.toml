@@ -80,7 +80,7 @@ author = "Themefisher"
 description = "Mejore su suerte con la Hermana Coraime"
 google_analytics_id = "UA-212973432-1"
 logo = "images/logo.jpg"
-post_share = true
+post_share = false
 [params.cookies]
 enable = false
 expire_days = 2
