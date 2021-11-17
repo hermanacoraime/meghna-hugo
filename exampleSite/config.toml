@@ -1,4 +1,4 @@
-baseURL = "http://hermana-coraime.com/"
+baseURL = "https://hermana-coraime.com/"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
